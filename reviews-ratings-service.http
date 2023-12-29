@@ -1,0 +1,6 @@
+@reviews_ratings_service_HostAddress = http://localhost:5064
+
+GET {{reviews_ratings_service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
